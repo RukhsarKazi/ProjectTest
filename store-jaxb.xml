@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:bookstore xmlns:ns2="lti.com.firstproject.jaxb">
+    <assets>
+        <details>
+            <fname>Rukhsar</fname>
+            <title>Kazi</title>
+        </details>
+        <details>
+            <fname>Kathy</fname>
+            <title>Sierra</title>
+        </details>
+    </assets>
+    <city>Mumbai</city>
+    <street>Kharghar</street>
+</ns2:bookstore>
